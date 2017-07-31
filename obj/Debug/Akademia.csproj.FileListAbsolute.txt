@@ -1,0 +1,45 @@
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\bin\Debug\Akademia.exe.config
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\bin\Debug\Akademia.exe
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\bin\Debug\Akademia.pdb
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.g.resources
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.exe
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\Akademia.pdb
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\MainProgram.g.cs
+D:\Documents\Visual Studio 2015\Projects\Akademia\Akademia\obj\Debug\MainProgram.baml
+C:\Users\Pank\Desktop\New folder\Akademia\bin\Debug\Akademia.exe.config
+C:\Users\Pank\Desktop\New folder\Akademia\obj\Debug\Akademia.exe
+C:\Users\Pank\Desktop\New folder\Akademia\obj\Debug\Akademia.pdb
+E:\ProjektAkademia\Akademia\bin\Debug\Akademia.exe.config
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.exe
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.pdb
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.csprojResolveAssemblyReference.cache
+E:\ProjektAkademia\Akademia\obj\Debug\MainProgram.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\MainWindow.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\App.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia_MarkupCompile.cache
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia_MarkupCompile.lref
+E:\ProjektAkademia\Akademia\bin\Debug\Akademia.exe
+E:\ProjektAkademia\Akademia\bin\Debug\Akademia.pdb
+E:\ProjektAkademia\Akademia\bin\Debug\System.Data.SQLite.dll
+E:\ProjektAkademia\Akademia\bin\Debug\System.Data.SQLite.xml
+E:\ProjektAkademia\Akademia\obj\Debug\MainProgram.baml
+E:\ProjektAkademia\Akademia\obj\Debug\MainWindow.baml
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.g.resources
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.Properties.Resources.resources
+E:\ProjektAkademia\Akademia\obj\Debug\Akademia.csproj.GenerateResource.Cache
+E:\ProjektAkademia\Akademia\obj\Debug\all_recipes.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\custom_shopping.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\shopping_list.g.cs
+E:\ProjektAkademia\Akademia\obj\Debug\all_recipes.baml
+E:\ProjektAkademia\Akademia\obj\Debug\custom_shopping.baml
+E:\ProjektAkademia\Akademia\obj\Debug\shopping_list.baml
